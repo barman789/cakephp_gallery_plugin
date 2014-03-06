@@ -1,0 +1,1 @@
+<?php echo $this->element('gallery', array('result' => $result)); ?>
